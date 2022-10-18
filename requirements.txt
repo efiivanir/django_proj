@@ -1,0 +1,13 @@
+setuptools
+wheel
+ipython
+django
+django-extensions
+django-debug-toolbar
+pygraphviz
+werkzeug
+vobject
+pyparsing
+pydot
+black
+flake8
